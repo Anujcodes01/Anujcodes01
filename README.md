@@ -3,7 +3,7 @@
 <h1 align="center">Hi🚀 , I'm Anuj Dhyani</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src= alt="anujdh8755" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujdh8755&label=Profile%20views&color=0e75b6&style=flat" alt="anujdh8755" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujdh8755" alt="anujdh8755" /></a> </p>
 
