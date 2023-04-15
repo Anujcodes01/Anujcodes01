@@ -1,6 +1,6 @@
 ![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif
 )
-<h1 align="center">Hi🚀 , I'm Anuj Dhyani</h1>
+<h1 align="center">Hi 🚀 , I'm Anuj Dhyani</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujdh8755&label=Profile%20views&color=0e75b6&style=flat" alt="anujdh8755" /> </p>
