@@ -33,7 +33,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anujdh8755&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujdh8755&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
