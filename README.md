@@ -2,7 +2,9 @@
 <h1 align="center">Hello🚀, There  </h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujdh8755&label=Visitors&color=0e75b6&style=flat" alt="anujdh8755" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anujdh8755&label=Profile%20views&color=0e75b6&style=flat" alt="anujdh8755" />
+</p>
 
 
 
