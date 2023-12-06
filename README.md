@@ -3,14 +3,14 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anujdh8755&label=Profile%20views&color=0e75b6&style=flat" alt="anujdh8755" />
+  <img src="https://komarev.com/ghpvc/?username=Anujdh8755&label=Profile%20views&color=0e75b6&style=flat" alt="Anujcodes01" />
 </p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anujdh8755" alt="Anujdh8755" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anujcodes01" alt="Anujcodes01" /></a> </p>
 
-- 🔭 I’m currently working on [my personal projects.](https://github.com/Anujdh8755?tab=repositories)
+- 🔭 I’m currently working on [my personal projects.](https://github.com/Anujcodes01?tab=repositories)
 
 - 🌱 I’m currently learning **Deep Learning**
 
@@ -31,9 +31,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anujdh8755&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anujdh8755&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujdh8755&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Anujcodes01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anujcodes01&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujcodes01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
