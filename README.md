@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anujcodes01" alt="Anujcodes01" /></a> </p>
 
-- 🔭 I’m currently working on [my personal projects.](https://github.com/Anujcodes01?tab=repositories)
+
 
 - 🌱 I’m currently learning **Deep Learning**
 
